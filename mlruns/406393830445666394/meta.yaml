@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/406393830445666394
+creation_time: 1708584451776
+experiment_id: '406393830445666394'
+last_update_time: 1708584451776
+lifecycle_stage: active
+name: /mlflow-pytorch-quickstart

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/871117483699130552/bb830b8ffd024523b7bd7002cbf1cc2f/artifacts
+end_time: 1708576662769
+entry_point_name: ''
+experiment_id: '871117483699130552'
+lifecycle_stage: active
+run_id: bb830b8ffd024523b7bd7002cbf1cc2f
+run_name: charming-mare-483
+run_uuid: bb830b8ffd024523b7bd7002cbf1cc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708576659422
+status: 3
+tags: []
+user_id: chira

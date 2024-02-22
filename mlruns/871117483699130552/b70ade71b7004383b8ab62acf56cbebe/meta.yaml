@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/871117483699130552/b70ade71b7004383b8ab62acf56cbebe/artifacts
+end_time: 1708583231898
+entry_point_name: ''
+experiment_id: '871117483699130552'
+lifecycle_stage: active
+run_id: b70ade71b7004383b8ab62acf56cbebe
+run_name: funny-mole-866
+run_uuid: b70ade71b7004383b8ab62acf56cbebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708583228731
+status: 3
+tags: []
+user_id: chira

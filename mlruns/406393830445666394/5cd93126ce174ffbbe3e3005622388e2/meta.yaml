@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406393830445666394/5cd93126ce174ffbbe3e3005622388e2/artifacts
+end_time: 1708585647685
+entry_point_name: ''
+experiment_id: '406393830445666394'
+lifecycle_stage: active
+run_id: 5cd93126ce174ffbbe3e3005622388e2
+run_name: intrigued-bat-347
+run_uuid: 5cd93126ce174ffbbe3e3005622388e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708585569140
+status: 3
+tags: []
+user_id: chira

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406393830445666394/1138f351207c4e23b87d8c3522d6d0f8/artifacts
+end_time: 1708584452037
+entry_point_name: ''
+experiment_id: '406393830445666394'
+lifecycle_stage: active
+run_id: 1138f351207c4e23b87d8c3522d6d0f8
+run_name: valuable-hog-505
+run_uuid: 1138f351207c4e23b87d8c3522d6d0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708584451982
+status: 4
+tags: []
+user_id: chira

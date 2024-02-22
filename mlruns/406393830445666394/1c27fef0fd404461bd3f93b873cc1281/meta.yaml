@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406393830445666394/1c27fef0fd404461bd3f93b873cc1281/artifacts
+end_time: 1708584711330
+entry_point_name: ''
+experiment_id: '406393830445666394'
+lifecycle_stage: active
+run_id: 1c27fef0fd404461bd3f93b873cc1281
+run_name: selective-lamb-125
+run_uuid: 1c27fef0fd404461bd3f93b873cc1281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708584634614
+status: 3
+tags: []
+user_id: chira

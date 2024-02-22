@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/871117483699130552/863402659524459b9894049cde16a333/artifacts
+end_time: 1708582677620
+entry_point_name: ''
+experiment_id: '871117483699130552'
+lifecycle_stage: active
+run_id: 863402659524459b9894049cde16a333
+run_name: classy-wren-342
+run_uuid: 863402659524459b9894049cde16a333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708582672692
+status: 3
+tags: []
+user_id: chira
